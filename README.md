@@ -6,7 +6,7 @@ Aplicação feita em ReactJS, para adicionar repositórios consumindo a API do G
 
 Desenvolver uma aplicação utilizando ReactJS.
 
-## :gear: O que foi utilizado
+## :gear: O que foi utilizado:
 <ul>
   <li>React hooks</li>
   <li>Styled Components</li>
