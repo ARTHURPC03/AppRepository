@@ -2,19 +2,9 @@
 Aplicação feita em ReactJS, para adicionar repositórios consumindo a API do GitHub.
 
 
-<h3 align="center">
-  Desafio 5: Projeto com ReactJS
-</h3>
-
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href='#gear-oque-foi-utilizado'>Oque foi utilizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera-imagens">Imagens</a>
-</p>
-
 ## :rocket: Sobre o desafio
 
-Desenvolver uma aplicação utilizando reactJS.
+Desenvolver uma aplicação utilizando ReactJS.
 
 ## :gear: Oque foi utilizado
 <ul>
