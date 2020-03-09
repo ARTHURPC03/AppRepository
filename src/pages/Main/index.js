@@ -80,7 +80,7 @@ export default class Main extends Component {
           Repositórios
         </h1>
 
-        <Form onSubmit={this.handleSubmit} error={error}>
+        <Form onSubmit={this.handleSubmit} erro={error}>
           <input
             type="text"
             placeholder="Adicionar repositório"
@@ -88,7 +88,7 @@ export default class Main extends Component {
             onChange={this.handleInputChange}
           />
 
-          <SubmitButton loading={loading}>
+          <SubmitButton disabled={loading}>
             {loading ? (
               <FaSpinner color="#FFF" size={14} />
             ) : (
